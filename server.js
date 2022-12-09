@@ -10,10 +10,7 @@ app.use(express.json());
 app.use("/", router);
 
 
-<<<<<<< HEAD
 mongoose.set('strictQuery', false)
-=======
->>>>>>> fa1e1bffd7b23e627f9da98f9156e91756433062
 
 mongoose.connect(
   process.env.MONGO_URL, 
