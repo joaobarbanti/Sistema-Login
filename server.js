@@ -9,6 +9,8 @@ app.use(cors());
 app.use(express.json());
 app.use("/", router);
 
+mongoose.set('strictQuery', false);
+
 mongoose.connect(
   process.env.MONGO_URL, 
     {
