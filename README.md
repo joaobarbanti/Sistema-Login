@@ -1,8 +1,6 @@
 ## Sistema de Login 📱
 
-### Sistema simples de login e registro de usuários com nome, email e senha. Utilizei como banco de dados MongoDb e para o código a ferramenta NodeJs, o sistema 
-conta com uma autenticação de usuário desenvolvida com a biblioteca jsonwebtoken que gera um token para cada usuário logado e somente quem tem esse token autenticado
-pode acessar a página home. Utilizei bcrypt para criptografia de senhas 
+### Sistema simples de login e registro de usuários com nome, email e senha. Utilizei como banco de dados MongoDb e para o código a ferramenta NodeJs, o sistema conta com uma autenticação de usuário desenvolvida com a biblioteca jsonwebtoken que gera um token para cada usuário logado e somente quem tem esse token autenticado pode acessar a página home. Utilizei bcrypt para criptografia de senhas 
 
 
 ## 🚀Tecnologias Usadas
