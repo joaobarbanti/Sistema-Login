@@ -11,7 +11,8 @@
 
 ## 💻 O Porque Das Minhas Escolhas Técnicas:
 
-#### Por conta da aplicação não ser de grande complexidade separei ela em 3 pastas "controllers","routes" e "model". para facilitar o entendimento irei explicar de forma leiga cada uma, na controllers é onde deixamos toda funcionalidade do sistema separado em funções 
+#### Por conta da aplicação não ser de grande complexidade separei ela em 3 pastas "controllers","routes" e "model". para facilitar o entendimento irei explicar de forma leiga cada uma, 
+na controllers é onde deixamos toda funcionalidade do sistema separado em funções 
 exemplo: Função A - Registra usuário
  Função B - Faz autentificação do usuário
 
